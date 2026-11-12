@@ -32,3 +32,17 @@ Tips Dataset (`tips.csv`)
 
 ## Conclusion
 The visualizations help understand bill patterns and relationships between total bills and tips.
+
+## Graph Outputs
+
+### 1. Average Bill by Day
+![Average Bill](1_average_bill.png)
+
+### 2. Total Bill vs Tip
+![Bill vs Tip](2_bill_vs_tip.png)
+
+### 3. Total Bill Distribution
+![Bill Distribution](3_bill_distribution.png)
+
+### 4. Bill Variation by Day
+![Bill Variation](4_bill_variation.png)
